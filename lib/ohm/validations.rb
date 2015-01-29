@@ -1,4 +1,5 @@
 require "scrivener/validations"
+require "scrivener/contrib"
 
 module Ohm
   module Validations
